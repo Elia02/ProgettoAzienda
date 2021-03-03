@@ -1,0 +1,3 @@
+SELECT * 
+from prova 
+HAVING (((prova.INDIRIZZOPECSCUOLA) Like "non disponibile"))
