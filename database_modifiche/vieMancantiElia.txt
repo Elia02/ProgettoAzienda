@@ -88,3 +88,139 @@ Pagina 9:
 23.	Via Aldo Moro
 24.	VIA G.MARCONI
 25.	Via Nazionale, 156
+
+pagina 13:
+1. VIA MISASI
+2.Via San Leonardo, 51
+3.Vico Primo destro Dante Alighieri, 8
+4.Vico Primo destro Dante Alighieri, 8
+5.VIA G.MARCONI
+6.VIA D. FAINI, SNC
+7.Via delle Orchidee, 3
+8.Via S. Francesco, 2
+9.VIA SALVATORE SCERVINI N. 115
+10.VIA TORRELUNGA
+11.Via Lungo Crati Dante Alighieri, 7
+12.Via Quasimodo, 6-12
+13.CORSO CALABRIA SNC
+14.Via S. Francesco, 2
+15.Via Quasimodo, 6-12
+16.Via Lungo Crati Dante Alighieri, 7
+17.Corso Calabria
+18.VIA CHIUSA, 1
+19.VIA MARTUCCI N.18
+20.Via Giacomo Matteotti, 44
+21.VIA CHIUSA, 1
+22.Via Provinciale
+23.Via Provinciale
+24.Via San Leonardo, 51
+25.VIA ALDO MORO, 10
+
+pagina 16:
+1.VIA CARLETTO MICHELIS 2
+2.Via Giacomo Matteotti, 9
+3. Santa Vittoria d'Alba
+4. Via Guglielmo Marconi, 4
+5.Via Guglielmo Marconi, 4
+6.Corso Marcello Soleri, 1
+7.Corso Michele Coppino, 40/F
+8.Via Giuseppe Barbaroux, 7
+9.VIA CARLETTO MICHELIS 2
+10.PIAZZA SENATORE MARESCALCHI
+11.Piazza Antonio Gramsci, 3
+12.Via Don Luigi Sturzo, 1
+13.VIA GINO ABBATE N.16
+14.Viale Trento, 63
+15.Via XX Giugno
+16.CORSO G. MARCONI, 35
+17.CORSO G. MARCONI, 35
+18.Via Camilla Ravera, 11
+19.Via Camilla Ravera, 11
+20.VIA SOGARI, 3
+21.VIA SOGARI, 3
+22.Via del Filarete, 17
+23.VIA MASACCIO, 8
+24.Via Cambray Digny Luigi Guglielmo, 3
+25.VIALE MATTEOTTI, 12
+
+pagina 19:
+VIA PIAGGE
+VIA PIAGGE
+Via Vittorino Era, 1b
+VIA TIMAVO, 63
+Via Luigi Rizzo, 25-1
+Via Colombo, 11
+VIA RISORGIMENTO, 28
+Via Pelloux, 32
+Piazza Borelli, 2
+Piazza Borelli, 2
+C.so Giuseppe Garibaldi, 43
+VIA ROMA
+CORSO VITTORIO EMANUELE N. 70
+CORSO VITTORIO EMANUELE N. 70
+Via Niccolò Machiavelli, snc
+CORSO VITTORIO EMANUELE N. 70
+Via Niccolò Machiavelli, snc
+COSTA OSPEDALE N. 16
+C.SO VITTORIO EMANUELE 73-AGNONE
+C.SO VITTORIO EMANUELE 73-AGNONE
+CORSO VITTORIO EMANUELE N. 70
+Via Colonia Giulia, 129
+IA PAPA GIOVANNI XXIII,1
+Strada Statale 17
+VIA MASSA D ALBE
+
+pagina 22:
+Via Antonio Rosmini, 1
+Via Antonio Rosmini, 1
+VIA MARUGI, 29
+Via Antonio Rosmini, 1
+VIA TAGLIAMENTO
+VIA ARCHITA DA TARANTO
+VIA GALILEO GALILEI, 4
+Via Giacomo Puccini, 1
+ Viale Michelangelo,14
+Via della Pace, 27/29
+Via Emilio Zola, 4a
+VIA DELLA REPUBBLICA 13
+VIA C. BINI 4
+ISTITUTO SUPERIORE DI ISTRUZIONE SRL - 24
+VIA VALLI, 34
+VIA VALLI, 34
+VIA VALLI, 34
+VIA VALLI, 34
+VIA VALLI, 34
+VIA ROMA, 22
+Via Provinciale Vallecchia, 75
+Via Nicola Fabrizi, 74
+LOC. LA VIGNA
+LOC. LA VIGNA
+Via Ducale
+
+
+pagina 25:
+VIA ROMA
+VIA ROMA
+VIA MARIA TERESA FEDERICO S.N.C
+San Pier Marina
+Via Alcide De Gasperi
+Via Trento
+VIA SALITA II DEL CARMINE, 19
+VIA G. DI VITTORIO 34
+VIA CRISPI,
+VIA SALITA II DEL CARMINE, 19
+Via F. Crispi, 495
+VIA CRISPI
+Via F. Crispi, 495
+VIA SALITA II DEL CARMINE, 19
+Via F. Crispi, 495
+Via Benedetto Caputo
+Via Dietro Cappuccini
+Via F. Crispi, 495
+VIA CRISPI
+Via Caminiti, C
+VIA CRISPI
+VIA PROFESSOR PROFETA, 27
+VIA ROMA
+VIA ADOLFO ROMANO SN
+VIA ADOLFO ROMANO SN
