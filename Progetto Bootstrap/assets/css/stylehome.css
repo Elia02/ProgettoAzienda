@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /**
 * Template Name: Bell - v2.2.1
 * Template URL: https://bootstrapmade.com/bell-free-bootstrap-4-template/
@@ -5,6 +6,15 @@
 * License: https://bootstrapmade.com/license/
 */
 
+=======
+/**
+* Template Name: Bell - v2.2.1
+* Template URL: https://bootstrapmade.com/bell-free-bootstrap-4-template/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
+
+>>>>>>> e0afe090243f63ce5f8aaec2abdb1096345b14e9
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", Helvetica, Arial, sans-serif;
 }
@@ -33,8 +43,13 @@ h4 {
   font-size: 18px;
 }
 
+<<<<<<< HEAD
 /*--------------------------------------------------------------
 # General
+=======
+/*--------------------------------------------------------------
+# General
+>>>>>>> e0afe090243f63ce5f8aaec2abdb1096345b14e9
 --------------------------------------------------------------*/
 a {
   transition: 0.5s;
@@ -45,8 +60,13 @@ a:hover {
   color: #23c2e1;
 }
 
+<<<<<<< HEAD
 /* ==================================================
   Elements
+=======
+/* ==================================================
+  Elements
+>>>>>>> e0afe090243f63ce5f8aaec2abdb1096345b14e9
   ================================================== */
 .btn {
   background-color: #199EB8;
@@ -112,8 +132,13 @@ a:hover {
   opacity: .75;
 }
 
+<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Header
+=======
+/*--------------------------------------------------------------
+# Header
+>>>>>>> e0afe090243f63ce5f8aaec2abdb1096345b14e9
 --------------------------------------------------------------*/
 #header {
   background: #199EB8;
@@ -176,8 +201,13 @@ a:hover {
   color: rgba(255, 255, 255, 0.75);
 }
 
+<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Navigation Menu
+=======
+/*--------------------------------------------------------------
+# Navigation Menu
+>>>>>>> e0afe090243f63ce5f8aaec2abdb1096345b14e9
 --------------------------------------------------------------*/
 /* Nav Menu Essentials */
 .nav-menu,
@@ -409,8 +439,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
 }
 
+<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Hero Section
+=======
+/*--------------------------------------------------------------
+# Hero Section
+>>>>>>> e0afe090243f63ce5f8aaec2abdb1096345b14e9
 --------------------------------------------------------------*/
 .hero {
   display: table;
@@ -459,8 +494,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
 }
 
+<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Stats
+=======
+/*--------------------------------------------------------------
+# Stats
+>>>>>>> e0afe090243f63ce5f8aaec2abdb1096345b14e9
 --------------------------------------------------------------*/
 .stats-row {
   margin-top: 65px;
@@ -494,8 +534,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: 700;
 }
 
+<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Breadcrumbs
+=======
+/*--------------------------------------------------------------
+# Breadcrumbs
+>>>>>>> e0afe090243f63ce5f8aaec2abdb1096345b14e9
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 20px 0;
@@ -547,8 +592,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   }
 }
 
+<<<<<<< HEAD
 /* ==================================================
   Welcome Styling
+=======
+/* ==================================================
+  Welcome Styling
+>>>>>>> e0afe090243f63ce5f8aaec2abdb1096345b14e9
   ================================================== */
 .welcome {
   color: #fff;
@@ -568,8 +618,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 45px;
 }
 
+<<<<<<< HEAD
 /* ==================================================
   Features Styling
+=======
+/* ==================================================
+  Features Styling
+>>>>>>> e0afe090243f63ce5f8aaec2abdb1096345b14e9
   ================================================== */
 .features {
   padding-bottom: 45px;
@@ -616,8 +671,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #999;
 }
 
+<<<<<<< HEAD
 /* ==================================================
   Call-to-action Styling
+=======
+/* ==================================================
+  Call-to-action Styling
+>>>>>>> e0afe090243f63ce5f8aaec2abdb1096345b14e9
   ================================================== */
 .cta {
   background-color: #199EB8;
@@ -643,8 +703,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   top: 13px;
 }
 
+<<<<<<< HEAD
 /* ==================================================
   Portfolio Styling
+=======
+/* ==================================================
+  Portfolio Styling
+>>>>>>> e0afe090243f63ce5f8aaec2abdb1096345b14e9
   ================================================== */
 .portfolio {
   background-color: #edf6ff;
@@ -709,8 +774,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   visibility: visible;
 }
 
+<<<<<<< HEAD
 /* ==================================================
   Team Styling
+=======
+/* ==================================================
+  Team Styling
+>>>>>>> e0afe090243f63ce5f8aaec2abdb1096345b14e9
   ================================================== */
 .team h2 {
   color: #199EB8;
@@ -807,8 +877,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #999;
 }
 
+<<<<<<< HEAD
 /* ==================================================
   Contact Section
+=======
+/* ==================================================
+  Contact Section
+>>>>>>> e0afe090243f63ce5f8aaec2abdb1096345b14e9
   ================================================== */
 #contact {
   background: #f7f7f7;
@@ -920,8 +995,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   }
 }
 
+<<<<<<< HEAD
 /*--------------------------------------------------------------
 # Footer
+=======
+/*--------------------------------------------------------------
+# Footer
+>>>>>>> e0afe090243f63ce5f8aaec2abdb1096345b14e9
 --------------------------------------------------------------*/
 .site-footer {
   background-color: #111;
@@ -985,8 +1065,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #199EB8;
 }
 
+<<<<<<< HEAD
 /* ==================================================
   Responsive Styling
+=======
+/* ==================================================
+  Responsive Styling
+>>>>>>> e0afe090243f63ce5f8aaec2abdb1096345b14e9
   ================================================== */
 @media (max-width: 61.9em) {
   section,
