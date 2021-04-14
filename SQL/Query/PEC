@@ -1,1 +1,0 @@
-SELECT * FROM `datiscuole` WHERE `INDIRIZZOPECSCUOLA` NOT LIKE 'Non Disponibile' 
