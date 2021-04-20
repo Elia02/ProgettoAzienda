@@ -70,7 +70,7 @@ tr {
 }
  
 tr:hover td {
-  background:#199eb8;
+  background:#04b354;
   color:#FFFFFF;
   border-top: 1px solid #22262e;
 }
@@ -88,7 +88,7 @@ tr:nth-child(odd) td {
 }
  
 tr:nth-child(odd):hover td {
-  background:#199eb8;
+  background:#04b354;
 }
 
 tr:last-child td:first-child {

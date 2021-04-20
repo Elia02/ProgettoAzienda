@@ -1,7 +1,43 @@
+span{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  text-align: center;
+}
 
+input[type="submit"], input[type="reset"]{
+  background-color: #04b354; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 26px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+input[type=text] {
+  padding:3px;
+  margin: 1%;
+  border-radius: 10px;
+  box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+}
+
+select {
+  width: 50%;
+  padding:3px;
+  margin: 1%;
+  border-radius:10px;
+  box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+}
 
 form {
-width: 300px;
+width: 400px;
 margin: 0 auto; /* centra l'intero form nella pagina */
 padding: 10px 0;
 }
@@ -40,7 +76,7 @@ h4 {
 --------------------------------------------------------------*/
 a {
   transition: 0.5s;
-  color: #199EB8;
+  color: #04b354;
 }
 
 a:hover {
@@ -51,7 +87,7 @@ a:hover {
   Elements
   ================================================== */
 .btn {
-  background-color: #199EB8;
+  background-color: #04b354;
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 800;
   color: #fff;
@@ -75,7 +111,7 @@ a:hover {
 
 .btn-ghost:hover {
   background-color: #fff;
-  color: #199EB8;
+  color: #04b354;
 }
 
 section {
@@ -103,7 +139,7 @@ a:hover {
   width: 42px;
   height: 42px;
   border-radius: 50%;
-  background: #199EB8;
+  background: #04b354;
   color: #fff;
   text-align: center;
   font-size: 24px;
@@ -118,9 +154,9 @@ a:hover {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #199EB8;
+  background: #04b354;
   height: 70px;
-  width:237.7%;
+  width:217.7%;
   
 }
 
@@ -291,7 +327,7 @@ margin-left:-1030px;
 }
 
 .nav-menu ul li:hover {
-  background: #199EB8;
+  background: #04b354;
   transition: 0.3s;
 }
 
@@ -389,12 +425,12 @@ margin-left:-1030px;
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #199EB8;
+  color: #04b354;
   
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #199EB8;
+  color: #04b354;
   
 }
 
@@ -486,7 +522,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-family: "Raleway", Helvetica, Arial, sans-serif;
   font-weight: 500;
   color: #666;
-  border: 6px solid #199EB8;
+  border: 6px solid #04b354;
   border-radius: 50%;
   padding: 55px 25px 0 25px;
   position: relative;
@@ -589,7 +625,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .features h2 {
-  color: #199EB8;
+  color: #04b354;
 }
 
 .feature-col {
@@ -610,7 +646,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   width: 70px;
   height: 70px;
   margin-bottom: 15px;
-  background: #199EB8;
+  background: #04b354;
   color: #fff;
   font-size: 24px;
   text-align: center;
@@ -620,7 +656,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .feature-col h3 {
-  color: #199EB8;
+  color: #04b354;
 }
 
 .feature-col p {
@@ -633,7 +669,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   Call-to-action Styling
   ================================================== */
 .cta {
-  background-color: #199EB8;
+  background-color: #04b354;
   padding: 25px 0;
 }
 
@@ -665,7 +701,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .portfolio h2 {
-  color: #199EB8;
+  color: #04b354;
   margin-bottom: 25px;
 }
 
@@ -726,7 +762,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   Team Styling
   ================================================== */
 .team h2 {
-  color: #199EB8;
+  color: #04b354;
 }
 
 .team .col-sm-3 {
@@ -774,7 +810,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .team .card:hover .card-title-wrap {
-  background-color: #199EB8;
+  background-color: #04b354;
 }
 
 .team .card:hover .card-title-wrap .card-title,
@@ -832,7 +868,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact h2 {
   font-family: "Raleway", Helvetica, Arial, sans-serif;
-  color: #199EB8;
+  color: #04b354;
  text-align:left;
    margin-left:-37%;
   
@@ -840,7 +876,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .info i {
   font-size: 32px;
-  color: #199EB8;
+  color: #04b354;
   float: left;
   text-align:left;
   margin-left:-330%;
@@ -921,13 +957,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .php-email-form input::focus, #contact .php-email-form textarea::focus {
-  background-color: #199EB8;
+  background-color: #04b354;
    text-align:left;
   
 }
 
 #contact .php-email-form button[type="submit"] {
-  background: #199EB8;
+  background: #04b354;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1014,7 +1050,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .site-footer .bottom .list-inline a:hover {
-  color: #199EB8;
+  color: #04b354;
 }
 
 .site-footer .credits {
@@ -1022,7 +1058,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .site-footer .credits a {
-  color: #199EB8;
+  color: #04b354;
 }
 
 /* ==================================================
@@ -1167,7 +1203,7 @@ tr {
 }
  
 tr:hover td {
-  background:#199eb8;
+  background:#04b354;
   color:#FFFFFF;
   border-top: 1px solid #22262e;
 }
@@ -1185,7 +1221,7 @@ tr:nth-child(odd) td {
 }
  
 tr:nth-child(odd):hover td {
-  background:#199eb8;
+  background:#04b354;
 }
 
 tr:last-child td:first-child {

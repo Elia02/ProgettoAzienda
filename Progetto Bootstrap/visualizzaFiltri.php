@@ -61,7 +61,7 @@ session_start();
         <ul class="nav-menu">
           <li><a href="index.php">Home</a></li>
           <li><a href="visualizzaDati.php">Visualizza Dati</a></li>
-          <li><a href="Export.php">Scarica</a></li>
+          <li><a href="Export.php?caller=visualizzaFiltri">Scarica</a></li>
         </ul>
       </nav>
       <!-- #nav-menu-container -->
@@ -78,10 +78,9 @@ session_start();
 
     <form name="form" method='post' action='filtri.php'>
 
-            <h2>Visualizza Dati</h2>
-
+            
             <h3>Filtra Per:</h3>
-
+            <br>
             <label for="area">Area Geografica: </label>
             <select name="area">
                 <option value=""></option>
@@ -101,13 +100,13 @@ session_start();
                 <option value="Basilicata">Basilicata</option>
                 <option value="Calabria">Calabria</option>
                 <option value="Campania">Campania</option>
-                <option value="Elimilia_Romagna">Elimilia Romagna</option>
-                <option value="Friuli">Friuli-Venezia G.</option>
+                <option value="Emilia Romagna">Emilia Romagna</option>
+                <option value="FRIULI-VENEZIA G.">Friuli-Venezia G.</option>
                 <option value="Lazio">Lazio</option>
                 <option value="Liguria">Liguria</option>
                 <option value="Lombardia">Lombardia</option>
                 <option value="Marche">Marche</option>
-                <option value="Molise">molise</option>
+                <option value="Molise">Molise</option>
                 <option value="Piemonte">Piemonte</option>
                 <option value="Puglia">Puglia</option>
                 <option value="Sardegna">Sardegna</option>
@@ -115,18 +114,18 @@ session_start();
                 <option value="Toscana">Toscana</option>
                 <option value="Trentino">Trentino alto adige</option>
                 <option value="Umbria">Umbria</option>
-                <option value="Valle d'aosta">Valle d'aosta</option>
+                <option value="Valle di aosta">Valle di aosta</option>
                 <option value="Veneto">Veneto</option>
             </select>
 
             <br><br>
             <label for="provincia">Provincia: </label>
-            <input type="text" name="provincia" maxlength="20">
+            <input type="text" placeholder = "Es: Milano" name="provincia" maxlength="20">
 
 
             <br><br>
             <label for="comune">Comune: </label>
-            <input type="text" name="comune" maxlength="20">
+            <input type="text" placeholder = "Es: Como" name="comune" maxlength="20">
 
             <br><br>
             <input type="submit" name="cerca" value="Ricerca">
@@ -135,6 +134,7 @@ session_start();
 
             <?php
             $conn = new mysqli("localhost", "root", "", "dbFinale");
+            $check = false;
 
             $risultatiperpage = 25;
 
@@ -191,7 +191,6 @@ session_start();
 
                     if (array_key_exists($i, $_SESSION["result"])) {
                         $row = $_SESSION["result"][$i];
-
                         echo "<tr>";
 
                         echo "<td>" . $row['id'] . "</td>";
@@ -222,7 +221,13 @@ session_start();
 
                 echo "</table>";
             } else {
+              if($check == true){
                 echo "Nessun risultato";
+              }else{
+                $check = true;
+                
+              }
+                
             }
             ?>
             <nav aria-label="Page navigation">
@@ -233,6 +238,8 @@ session_start();
                         </a>
                     
                         &nbsp;
+                        &nbsp;
+                        
                     
                         <a href="visualizzaFiltri.php?page=<?= $Next; ?>" aria-label="Next">
                             <span aria-hidden="true"> Successiva &raquo;</span>
