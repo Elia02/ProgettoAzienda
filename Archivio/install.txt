@@ -1,0 +1,4 @@
+Per far funzionare il nostro progetto:
+1. se si ha la versione vecchia di mySQl con la possibilità di inserire nel database un file di max 2Mb (ad esempio a scuola) allora bisognera scaricare
+ il file presente nella cartella --> database\database ridotto e poi far partire il programma
+2. se si ha la versione nuova di mySQL si ha la possibilità di scaricare il file completo quindi quello nella caretlla --> database e poi far partire il programma 
