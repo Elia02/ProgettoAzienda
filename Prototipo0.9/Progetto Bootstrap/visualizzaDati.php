@@ -168,6 +168,7 @@ SEDE
   ?>
   </tbody>
   </table>
+  <br>
   <nav aria-label="Page navigation">
 					<ul class="pagination">
 				    
@@ -210,7 +211,7 @@ SEDE
 
               <div>
                 <i class="fa fa-envelope"></i>
-                <p>assistenza@uli.com</p>
+                <p>assistenza@uli.it</p>
               </div>
 
               <div>

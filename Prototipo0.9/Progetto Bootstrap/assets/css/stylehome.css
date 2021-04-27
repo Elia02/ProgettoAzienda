@@ -146,21 +146,20 @@ a:hover {
   max-height: 40px;
 }
 
-@media (max-width: 768px) {
-  #header {
-    height: 50px;
+@media (max-width: 1500px) {
+    #header #logo img {
+      padding: 0;
+      margin: auto;
+      max-height: 50px;
+    }
   }
-  #header #logo {
-    margin: 10px 0 0 0;
-  }
-  #header #logo h1 {
-    padding: 2px 0;
-    font-size: 26px;
-  }
+  
   #header #logo img {
-    max-height: 30px;
+    padding: 0;
+    margin: auto;
+    max-height: 50px;
   }
-}
+  
 
 #header .social-nav {
   margin-top: 15px;

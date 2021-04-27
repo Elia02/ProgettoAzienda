@@ -30,7 +30,7 @@
   <link href="assets/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/styledati3.css" rel="stylesheet">
+ 
 
 <style>
 table{
