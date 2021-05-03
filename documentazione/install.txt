@@ -1,0 +1,32 @@
+BENVENUTO IN ULI
+Qui ti mostreremo una breve guida sull'utilizzo del sito web.
+
+***********
+1. Per modificare dati all'interno del database , importare il database dbFinale sul proprio  , 
+   cambiando il nome del database se diverso da dbFinale 
+   
+***********
+
+2.  Far partire il programma, la prima pagina è una web page di introduzione ,
+    dopidichè cliccare su Get  Started Now
+
+***********
+
+3.  Cliccare su Visualizza Dati per visualizzare il database
+
+***********
+
+4. In alto con il tasto Home mi riporta alla pagina iniziale , se clicco il logo mi porta
+   alla pagina ufficiale di Utility Line Italia , se clicco scarica in questa pagina senza avere filtrato 
+   nulla mi scarica tutto il database in formato "csv"
+   
+   
+***********
+
+5. Cliccando su Filtra Ricerca porta alla pagina dei filtri da scegliere da parte dell'utente
+
+***********
+
+6. Dopo aver effettuato la ricerca tramite i filtri cliccando su scarica , salverà sul pc un database in 
+   formato csv solo dei filtri che ha scelto l'utente
+
